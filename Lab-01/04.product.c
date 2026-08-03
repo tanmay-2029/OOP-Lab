@@ -14,7 +14,7 @@ int main(){
     printf("Enter Product ID - ");
     scanf("%d", &p.ID);
     printf("Enter Product Name - ");
-    scanf("%s", p.productName);
+    scanf("%s",&p.productName);
     printf("Enter Price - ");
     scanf("%f", &p.price);
     printf("Enter quantity - ");
