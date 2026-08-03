@@ -18,7 +18,7 @@ int main() {
     scanf("%d", &s.rollno);
 
     printf("Enter Name- ");
-    scanf("%s", s.name);
+    scanf("%s", &s.name);
 
     printf("Enter Marks in C- ");
     scanf("%d", &s.cm);
