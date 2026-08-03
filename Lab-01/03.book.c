@@ -14,9 +14,9 @@ int main(){
     printf("Enter Book ID- ");
     scanf("%d",&b.ID);
     printf("Enter Book Title- ");
-    scanf("%s",b.title);
+    scanf("%s",&b.title);
     printf("Enter Author Name- ");
-    scanf("%s",b.author);
+    scanf("%s",&b.author);
     printf("Enter Price - ");
     scanf("%f",&b.price);
 
