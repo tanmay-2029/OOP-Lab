@@ -32,7 +32,10 @@ public:
 int main (){
     calculator c;
     c.detail();
-    switch
+    c.add();
+    c.sub();
+    c.div();
+    c.mul();
 
     return 0;
 }
